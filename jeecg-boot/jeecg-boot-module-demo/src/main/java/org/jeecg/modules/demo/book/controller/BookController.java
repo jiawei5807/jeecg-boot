@@ -30,7 +30,7 @@ import org.jeecg.common.aspect.annotation.AutoLog;
  */
 @Api(tags="图书表")
 @RestController
-@RequestMapping("/book/book")
+@RequestMapping("/book")
 @Slf4j
 public class BookController extends JeecgController<Book, IBookService> {
 
