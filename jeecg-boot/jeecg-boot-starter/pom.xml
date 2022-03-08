@@ -16,7 +16,6 @@
     </properties>
 
     <modules>
-        <module>jiawei.wang</module>
         <module>jeecg-boot-starter-cloud</module>
         <module>jeecg-boot-starter-job</module>
         <module>jeecg-boot-starter-lock</module>
