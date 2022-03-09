@@ -9,7 +9,7 @@
           </a>
         </div>
         <div class="desc">
-          Jeecg Boot 是中国最具影响力的 企业级 低代码平台
+          王佳伟
         </div>
       </div>
 
